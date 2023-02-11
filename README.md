@@ -1,7 +1,7 @@
 # Grinder-Timer
 Simple Arduino sketch for a grind-on-demand grinder
 
-I copied a LOT of this sketch from other people
+I copied a LOT of this sketch from other people (under the right licenses, mind you!) 
 
 This is just my implementation of it, and it works well. Removed a lot of EEPROM statistics etc I didn't need. 
 Added start-stop (i think? long time ago) functionality.
