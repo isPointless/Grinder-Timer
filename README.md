@@ -7,6 +7,8 @@ This is just my implementation of it, and it works well. Removed a lot of EEPROM
 
 Still want to add a continuous ('single dose') grind mode.
 
+Check the definitions for pindef, the image isnt really up to date.
+
 VIDEO: https://youtube.com/shorts/ht_ll7_amRw?feature=share
 
 BOM:
