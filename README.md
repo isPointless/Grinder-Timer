@@ -6,8 +6,6 @@ Simple Arduino sketch for a grind-on-demand grinder
 #### > Still want to add a continuous ('single dose') grind mode.
 #### > Check the definitions for pindef, the image isnt really up to date.
 
-> VIDEO: https://youtube.com/shorts/ht_ll7_amRw?feature=share
-
 
 BOM:
 - Arduino Nano (clone or genuine) 
