@@ -32,8 +32,6 @@ Implementation instructions: >> Make sure you are familiar with the risks & have
 
 #### VIDEO:
 
-https://www.youtube.com/watch?v=ht_ll7_amRw&ab_channel=WoutOsse
-
 
 #### Questions: Please reach out on Discord: itsPointless#6048
 
